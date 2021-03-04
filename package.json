@@ -1,11 +1,18 @@
 {
-  "name": "csybotlist",
-  "version": "0.0.1",
+  "name": "csybotlistapi",
+  "version": "1.0.0",
   "description": "csybotlist api",
   "main": "index.js",
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "author": "bucksh0t",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+	"type": "git",
+	"url" : "https:/github.com/CsYBot/csybotlist.git"
+}
 }
