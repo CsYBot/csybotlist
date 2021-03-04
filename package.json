@@ -1,0 +1,11 @@
+{
+  "name": "csybotlist",
+  "version": "0.0.1",
+  "description": "csybotlist api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "bucksh0t",
+  "license": "ISC"
+}
